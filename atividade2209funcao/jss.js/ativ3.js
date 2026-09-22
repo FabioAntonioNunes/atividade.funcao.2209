@@ -13,9 +13,9 @@ function resolucao(){
 resolucao()
 
 /*
-
+Achei fácil, pelos mesmo motivos anteriores, mesma lógica de exercios de c do ano passado.
 Pensei que era preciso receber a temperatura em celsius, depois calcular, e por último entregar.
 Entrada: receber a temperatura em celsius
 Processamento: coverter para fahrenheit
-Saída: Entregart o valor em fahrenheit.
+Saída: Entregar o valor em fahrenheit.
 */
