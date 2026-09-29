@@ -20,7 +20,7 @@ function verificarAprovacao(nota){
 function contarAprovados(listaAlunos){
     let quantAprovados = 0
     for(let objeto of listaAlunos){
-        let retorno = verificarAprovacao(listaAlunos[objeto.nota])
+        let retorno = verificarAprovacao(objeto.nota)
         if(retorno === true){
             quantAprovados = quantAprovados + 1;
         }
