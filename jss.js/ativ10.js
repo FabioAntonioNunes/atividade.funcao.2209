@@ -51,3 +51,8 @@ function executarAnalise(){
     console.log("O total de aprovados é de " + aprovados)
 }
 executarAnalise()
+
+/*Achei essa um pouco mais dificil, pois misturava objetos, arrays e funções. Mas foi legal ver a integração dos três. Pensei que tinha que criar a função para receber os nomes e notas através de um array com objetos e depois resolver o restante.
+Entrada: nomes e notas dos quatro alunos.
+Processamento: verfificar se o aluno está aprovado e se sim, acrescentá-lo no cálculo de aprovados.
+Saída: quantidade de alunos aprovados.*/
