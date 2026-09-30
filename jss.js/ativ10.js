@@ -56,12 +56,3 @@ executarAnalise()
 Entrada: nomes e notas dos quatro alunos.
 Processamento: verfificar se o aluno está aprovado e se sim, acrescentá-lo no cálculo de aprovados.
 Saída: quantidade de alunos aprovados.*/
-function(vetor){
-for(let i = 0; i < 4; i++){
-    let aluno = {
-        nome: prompt("Digite")
-        number: Number(prompt("Digite o numero"))
-    }
-    vetor.push
-}
-}
