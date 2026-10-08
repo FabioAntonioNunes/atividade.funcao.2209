@@ -36,3 +36,8 @@ function arrayDeObjetos(){
     calcularTempoPlaylist(array)
 }
 arrayDeObjetos()
+
+/*Essa foi nível de fácil para médio, pois consegui fazer sem usar IA em nenhum momento, e demorei apenas 20 minutos, e fiquei feliz, momentaneamente, por isso. Mas ela puxa para o nível médio, pois é preciso ter cuidadado e tem muitos passos. Pensei em fazer a conversão, percorrer o array para calcular total de segundos e criar o array de objetos.
+E => quantas músicas tem na playlist, título, minutos e segundos.
+P => conversão para segundos e calcular total de segundos.
+S => total de segundos da playlist. */

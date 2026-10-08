@@ -37,3 +37,10 @@ function calcularTotalCarrinho(itensDoCarrinho){
     alert("O valor total acumulado foi de R$" + soma + ".")
 }
 objetoItem()
+
+/*Essa foi nível médio. Tive um pouco mais de dificuldade, e ao final envie para a IA achar os erros e form os seguintes: acesso de item.preco antes de finalizar o objeto, colocar ==! ao invés de !==, item dentro do do como let, o que faz o while não receber e colocar for...in ao invés de for...of.
+Depois de decodificar o enunciado (que estava um pouco confuso, dando para entender que era preciso fazer um array e objetos independentes), não sei explicar direito, mas fim o objeto, depois chamei a função calcularSubTotalItem, e adicionei o objeto ao array. Depois calcular o total e entregar.
+
+E => item.preco e item.quantidade
+P => subtotal individual para cada item e para o total final.
+S => valores individuais e valor final.*/

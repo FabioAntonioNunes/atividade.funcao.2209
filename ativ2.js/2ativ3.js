@@ -43,3 +43,9 @@ function resolucao(opcoes){
     }
 }
 menu()
+
+/*Foi entre fácil e médio, porque consegui fazer, mas foi mas complicado de fazer, mas descobri que ao invés de cases com numeros, pode-se utilizar cases com letras e não é /n e sim \n.
+Pensei que tinha que pedir para o usuário escrever qual sua opção de conversão após a apresentação do menu, depois faz a conversão, e ao final, observei que poderia indicar o valor de conversão para o usuário através de alerts em cada case.
+E => a, b, c, d, e, a opção dentre as descritas no enunciado.
+P => conversão por switch case.
+S => O valor de conversão.*/
